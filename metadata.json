@@ -1,0 +1,5 @@
+{
+  "name": "VozGen AI",
+  "description": "Generador de voz realista (TTS) potenciado por Gemini AI con soporte para emociones, acentos y etiquetas de actuación.",
+  "requestFramePermissions": []
+}
